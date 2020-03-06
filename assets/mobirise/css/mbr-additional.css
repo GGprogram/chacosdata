@@ -666,7 +666,7 @@ section.lazy-placeholder:after {
   fill: #ff0013 !important;
 }
 .cid-rleMYSmADg #e6_circle {
-  fill: #ffffff !important;
+  fill: #000000 !important;
 }
 @keyframes orbit {
   from {
@@ -764,7 +764,7 @@ section.lazy-placeholder:after {
 }
 .cid-rleMYSmADg .mbr-text,
 .cid-rleMYSmADg .mbr-section-btn {
-  color: #000000;
+  color: #f2f6ff;
   text-align: center;
 }
 .cid-rleMYSmADg H3 {
@@ -916,12 +916,6 @@ section.lazy-placeholder:after {
   .cid-rSfl6V7KBE img {
     width: 100%;
   }
-}
-.cid-rlf4BBCTn9 {
-  background-image: url("../../../assets/images/red-and-black-shapes-41842-2000x1125.jpg");
-}
-.cid-rlf4BBCTn9 .container {
-  height: 40rem;
 }
 .cid-rlf1KeajSa {
   padding-top: 60px;
